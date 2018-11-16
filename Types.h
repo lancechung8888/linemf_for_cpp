@@ -1,9 +1,9 @@
-/**
- * Compiled for SuperSonic Line API Lite
- *
- * DO NOT EDIT UNLESS YOU ARE SURE THAT YOU KNOW WHAT YOU ARE DOING
- *  @generated
- */
+/*======================================
+This library is protected by license.
+Please check LINCENSE for details.
+FILE:linemf/Login.h
+AUTHOR:mafusuke
+======================================*/
 #ifndef litecore_TYPES_H
 #define litecore_TYPES_H
 
