@@ -1,11 +1,15 @@
-# LINEMF for c++
-making now...
+# linemf for c++
+This library is made part way through.
 
-/疲れた...
+/このライブラリは途中まで作られています.
 
-Please wait.
+If you have someone who can make a continuation, please contact me.
 
-/完成をお待ちください!(完成するのか?
+/続きを作っていただける方がいましたら,連絡をおねがいします.
+
+I will give you other information etc.
+
+/ほかの情報等をお渡しします.
 # using
 
 # info
