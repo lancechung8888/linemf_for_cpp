@@ -12,6 +12,8 @@ I will give you other information etc.
 /ほかの情報等をお渡しします.
 # using
 
+/外部依存があります.詳細は今後掲載予定.
+
 # info
 author == mafusuke
 
