@@ -21,6 +21,6 @@ author_email == kawa5013@gmail.com
 
 url == https://github.com/mafusuke
 
-copyright == Copyright 2018 by mafusuke
+copyright == Copyright 2019 by mafusuke
 
 version == 1.0.0
